@@ -26,7 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Farhan Haddad Yakan"),
+        title: Text("Sami Amrullah"),
       ),
       body: GridView.count(
         crossAxisCount: 3,
